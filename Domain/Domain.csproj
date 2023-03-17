@@ -13,14 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Base\" />
-    <Folder Include="DTO\" />
-    <Folder Include="Exceptions\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="MappingProfiles\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Repository\Repository.csproj" />
   </ItemGroup>
 
